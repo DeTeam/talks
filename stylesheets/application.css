@@ -1,0 +1,16 @@
+.qr-description {
+  margin-left: 10%;
+}
+
+.row-divider {
+  height: 40px;
+  line-height: 40px;
+}
+
+.talk-data {
+  height: 275px;
+}
+
+.talk-data .row {
+  margin-bottom: 15px;
+}
